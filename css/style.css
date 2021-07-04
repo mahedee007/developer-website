@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+font-size: 50px;
+font-weight: 700;
+}
+
+h2{
+
+}
+
+h3{
+
+}
+span{
+    color: orange;
+}
+.top-container{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    
+}
+div{
+    width: 50%;
+}
+div img{
+    width: 100%;
+}
